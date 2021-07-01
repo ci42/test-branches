@@ -19,6 +19,6 @@
   "dependencies": {
     "imagickal": "5.0.1",
     "js-extend": "1.0.1",
-    "xmlhttprequest-ssl": "1.5.1"
+    "xmlhttprequest-ssl": "1.6.1"
   }
 }
